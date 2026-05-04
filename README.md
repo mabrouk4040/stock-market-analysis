@@ -10,8 +10,8 @@
 
 | Name | Student ID | Role |
 |------|-----------|------|
-| Mohamed Abo-Bakr Ahmed | 202207062 | Data & Visualization Developer — Data processing, indicators, Plotly charts |
-| Ahmed Khaled Ahmed | 202206515 | Backend Developer & Project Lead — API integration, validation, error handling, Streamlit UI |
+| Mohamed Abo-Bakr Ahmed | 202207062 | Backend Developer & Project Lead — API integration, validation, error handling, Streamlit UI |
+| Ahmed Khaled Ahmed | 202206515 | Data & Visualization Developer — Data processing, indicators, Plotly charts |
 
 ---
 
